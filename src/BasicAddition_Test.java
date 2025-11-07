@@ -7,5 +7,6 @@ public class BasicAddition_Test {
         long cd = 225;
 
         System.out.println(ab+bc+cd);
+
     }
 }
