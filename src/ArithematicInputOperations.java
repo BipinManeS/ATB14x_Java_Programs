@@ -20,6 +20,5 @@ import java.util.Scanner;
 
               int num3 = num * num2;
               System.out.println(num + "*" + num2  + "=" + num3);
-
           }
 }
